@@ -1,0 +1,7 @@
+{
+  "git": {
+    "sha1": "6c02c0022b3c5b1caf30e5217865c8d9e1806de6",
+    "dirty": true
+  },
+  "path_in_vcs": "sdks/crates/udi-decoder"
+}

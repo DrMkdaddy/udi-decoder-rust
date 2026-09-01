@@ -1,0 +1,1 @@
+/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/libudi_decoder_client.rlib: /home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/package/udi-decoder-client-1.0.0/src/lib.rs

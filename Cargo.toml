@@ -1,0 +1,18 @@
+[package]
+name = "udi-decoder-client"
+version = "1.0.0"
+edition = "2021"
+description = "Official high-speed Rust client for FDA & EU MDR Medical Device UDI Decoder (GS1, HIBCC, ICCBBA) via RapidAPI Hub"
+readme = "README.md"
+authors = ["Noor Mkdad <https://github.com/DrMkdaddy>"]
+license = "MIT"
+repository = "https://github.com/DrMkdaddy/udi-decoder-rust"
+homepage = "https://noormkdad.com/tools/udi-decoder"
+documentation = "https://noormkdad.com/tools/udi-decoder"
+keywords = ["fda-udi","eu-mdr","medical-device","gs1-datamatrix","hibcc"]
+categories = ["api-bindings", "web-programming::http-client"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls-native-roots", "blocking"] }

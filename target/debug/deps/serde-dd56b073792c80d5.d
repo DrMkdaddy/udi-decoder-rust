@@ -1,0 +1,14 @@
+/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/deps/serde-dd56b073792c80d5.d: /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/build/serde-6b878d51b3b1d90b/out/private.rs
+
+/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/deps/libserde-dd56b073792c80d5.rlib: /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/build/serde-6b878d51b3b1d90b/out/private.rs
+
+/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/deps/libserde-dd56b073792c80d5.rmeta: /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/build/serde-6b878d51b3b1d90b/out/private.rs
+
+/home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/noorm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/build/serde-6b878d51b3b1d90b/out/private.rs:
+
+# env-dep:OUT_DIR=/home/noorm/projects/api-worker/sdks/crates/udi-decoder/target/debug/build/serde-6b878d51b3b1d90b/out
